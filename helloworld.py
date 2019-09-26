@@ -1,6 +1,6 @@
+#! /usr/bin/env python 
 
-
-def main():
+ def main():
     print("Hello, World!")
 
 
